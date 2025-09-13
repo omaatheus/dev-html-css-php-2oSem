@@ -1,0 +1,23 @@
+* { /* Asterisco serve para aplicar em todo a pagina */
+    font-family: Arial;
+}
+
+p {
+    color: darkgreen;
+    font-family: Georgia;
+}
+
+.p1 {
+color: red;
+text-align: center;
+font-family: Verdana;
+}
+
+#p2 {
+    background-color: aqua;
+    font-weight: bold;
+}
+
+footer p {
+    font-size: 8px;
+}
